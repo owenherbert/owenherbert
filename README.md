@@ -1,7 +1,7 @@
 
 # Hi, I'm Owen 👋
 
-I am a Software Engineer that specializes in PHP, Laravel, Amazon Web Services, and ReactJS.
+Owen is a Brisbane-based Software Engineer specialising in distributed systems and cloud-native development. At Catalyst IT Australia, he builds and helps maintain large-scale enterprise and higher education platforms using AWS, React, TypeScript, PHP, Laravel, Docker, and PostgreSQL, supporting systems used by hundreds of thousands of users. Owen holds an Australian Government Defence security clearance.
 
 - 🎓 **Bachelor of Information Technology**
 - 📂 **Portfolio:** [owenherbert.com](https://owenherbert.com)
